@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=3 uid="uid://b83m0d5hmk8qx"]
 
 [ext_resource type="Script" uid="uid://cxrupwsuyhiga" path="res://Screens/MainMenu/MainMenu.gd" id="1_e1qn7"]
-[ext_resource type="Texture2D" uid="uid://bwyxgjx3dcfqp" path="res://Assests/transparent_image.png" id="2_5g1o6"]
+[ext_resource type="Texture2D" path="res://Assets/transparent_image.png" id="2_5g1o6"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_uemt4"]
 bg_color = Color(0.945098, 0.509804, 0.419608, 1)
@@ -50,7 +50,7 @@ anchor_right = 0.5
 offset_left = -317.0
 offset_top = 100.0
 offset_right = 349.0
-offset_bottom = 223.0
+offset_bottom = 233.0
 grow_horizontal = 2
 texture = ExtResource("2_5g1o6")
 
