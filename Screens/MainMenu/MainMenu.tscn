@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=3 uid="uid://b83m0d5hmk8qx"]
 
-[ext_resource type="Script" uid="uid://cxrupwsuyhiga" path="res://Screens/MainMenu/MainMenu.gd" id="1_e1qn7"]
-[ext_resource type="Texture2D" path="res://Assets/transparent_image.png" id="2_5g1o6"]
+[ext_resource type="Script" uid="uid://dpml2dw44cr88" path="res://Screens/MainMenu/MainMenu.gd" id="1_e1qn7"]
+[ext_resource type="Texture2D" uid="uid://xpyt53ylyy6c" path="res://Assets/Bloodlines.png" id="2_5g1o6"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_uemt4"]
 bg_color = Color(0.945098, 0.509804, 0.419608, 1)
