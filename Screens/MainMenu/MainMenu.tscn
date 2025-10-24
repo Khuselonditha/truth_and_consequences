@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=3 uid="uid://b83m0d5hmk8qx"]
 
 [ext_resource type="Script" uid="uid://dpml2dw44cr88" path="res://Screens/MainMenu/MainMenu.gd" id="1_e1qn7"]
-[ext_resource type="FontFile" uid="uid://dq71jacs2l8l6" path="res://Interface/Fonts/TitleFonts/Metal_Mania/MetalMania-Regular.ttf" id="3_5f575"]
+[ext_resource type="FontFile" uid="uid://6wu4eccuq1hi" path="res://Interface/Fonts/TitleFonts/Nosifer/Nosifer-Regular.ttf" id="3_5f575"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_uemt4"]
 bg_color = Color(0.945098, 0.509804, 0.419608, 1)
@@ -101,5 +101,5 @@ offset_bottom = 123.0
 grow_horizontal = 2
 theme_override_colors/font_color = Color(0.65, 0.21449998, 0.21449998, 1)
 theme_override_fonts/font = ExtResource("3_5f575")
-theme_override_font_sizes/font_size = 120
+theme_override_font_sizes/font_size = 100
 text = "BLOODLINES"
